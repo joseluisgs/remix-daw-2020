@@ -1,0 +1,36 @@
+*{
+    background-color: rgb(240, 229, 198);
+
+}
+header.index h1{
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    color: rgb(53, 8, 8);
+    font-size: 20mm;
+}
+
+header.index h2{
+    text-align: center;
+    font-size: 10mm;
+    color: rgb(155, 124, 84);
+}
+
+div.aside aside{
+    float: left;
+    margin-left: 10%;
+    margin-top: 5%;
+    background-color: rgb(53, 8, 8);
+}
+
+ul.index li a {
+    text-decoration: none;
+    font-size: 10mm;
+    color:rgb(155, 124, 84);
+}
+
+div.section section{
+    float: right;
+    margin-top: 5%;
+    margin-right: 26%;
+}
