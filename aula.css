@@ -1,0 +1,13 @@
+table, th, td{
+    border: 1px black solid;
+}
+body{
+    background-color: cadetblue;
+}
+tr :first-child {
+    width: 30%;
+}
+tr :last-child{
+    width: 30%;
+}
+
